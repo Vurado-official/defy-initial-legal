@@ -76,4 +76,4 @@ For privacy-related inquiries or requests concerning rights provided under appli
 
 Developer: 2007V
 Project: DEFY INITIAL
-Email: [CONTACT EMAIL]
+Email: vuradocool@gmail.com
