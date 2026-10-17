@@ -54,4 +54,4 @@ For inquiries concerning these Terms of Service, users may contact the Developer
 
 Developer: 2007V
 Project: DEFY INITIAL
-Email: [CONTACT EMAIL]
+Email: vuradocool@gmail.com
